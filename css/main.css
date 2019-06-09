@@ -118,8 +118,12 @@
    @import url('https://fonts.googleapis.com/css?family=Raleway');
    
    html,h1,h2,h3,h4,h5,h6,a{
-    fot-family: "Raleway";
+    font-family: "Raleway";
    }
    .btn{
-       background-color: #343a40
+       background-color: #343a40;
+    }
+    .img-fluid{
+    height: 100px;
+    width: 50%;
     }
